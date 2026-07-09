@@ -1,0 +1,27 @@
+{
+  "title": "楽天で買ってよかったもの3選",
+  "intro_sub": "最後まで見てね",
+  "cta": "詳細はプロフィールの\n楽天ROOMから",
+  "output_name": "rakuten_best3.mp4",
+  "hashtags": ["#PR", "#楽天", "#楽天room", "#楽天購入品", "#買ってよかった", "#楽天マラソン"],
+  "products": [
+    {
+      "name": "電気圧力鍋 2.2L",
+      "price": "9,980円",
+      "comment": "ほったらかしで角煮が完成",
+      "image": "images/item1.jpg"
+    },
+    {
+      "name": "ワイヤレスイヤホン 防水",
+      "price": "3,480円",
+      "comment": "この値段で音質が想像以上",
+      "image": "images/item2.jpg"
+    },
+    {
+      "name": "珪藻土バスマット 大判",
+      "price": "1,780円",
+      "comment": "洗濯不要でずっとサラサラ",
+      "image": "images/item3.jpg"
+    }
+  ]
+}
