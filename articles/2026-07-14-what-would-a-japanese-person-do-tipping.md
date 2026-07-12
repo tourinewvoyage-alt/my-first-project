@@ -4,12 +4,15 @@
 公開日: 2026-07-14(予約投稿)
 シリーズ: Scenario
 価格: ¥2,000
+見出し画像: タイトル文字 "Why Your Tip Will Be Refused in Japan" / 写真: 赤提灯の居酒屋の店先(夜)。シリーズテンプレ(Scenario=朱色)
 note URL: (公開後に記入)
 -->
 
 *Omotenashi (おもてなし) — hospitality with no expectation of return. This is the story of why your tip will be politely, firmly, sometimes desperately refused — and what Japan offers instead.*
 
 ## The Scene
+
+<!-- 🖼 画像1(無料部分): 居酒屋のカウンター越しの料理と徳利。Unsplash検索例: "izakaya counter" ※店内は撮影許可を取る -->
 
 A small family-run izakaya in Osaka. You've just had one of those meals — the owner remembered you don't eat shellfish, the grandmother brought you a small dish "on the house" because you looked curious about it, and someone quietly recharged your tea four times without being asked.
 
@@ -34,6 +37,8 @@ The short answer: in Japan, exceptional service isn't a performance that earns a
 Below the line: what actually happens on both sides of the counter, the one situation where "tipping" *does* exist in Japan (with its own beautiful etiquette), and how to express gratitude in ways that will genuinely land.
 
 ---PAID LINE---
+
+<!-- 🖼 画像2(有料部分・kokorozuke節の近く): ポチ袋を数種類並べた写真。100均や文具店で買って自分で撮れる。「心付け」の実物として海外読者に価値が高い -->
 
 ## What Actually Happens
 

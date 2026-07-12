@@ -4,12 +4,15 @@
 公開日: 2026-07-18(予約投稿)
 シリーズ: Wa no Kokoro
 価格: ¥2,000
+見出し画像: タイトル文字 "Ichigo Ichie: One Time, One Meeting" / 写真: 抹茶碗を両手で持つ手元のクローズアップ。シリーズテンプレ(和の心=藍色×金)
 note URL: (公開後に記入)
 -->
 
 *Ichigo ichie (一期一会) — "one lifetime, one meeting." Four characters from the tea ceremony that contain an entire philosophy: this gathering, these people, this light through the window — exactly this — will never happen again. This is the story of what changes when you take that literally.*
 
 ## The Scene
+
+<!-- 🖼 画像1(無料部分): 茶室の内部(にじり口や床の間が見える構図)。Unsplash検索例: "japanese tea room" / "tea ceremony room" -->
 
 A tea room in Kyoto, two and a half tatami mats small. You enter through a door so low you must bow to pass — everyone bows here, samurai once left their swords outside, because rank does not fit through that door.
 
@@ -36,6 +39,8 @@ So is *ichigo ichie* just Japanese YOLO? It is not — and the difference is the
 Below the line: how this philosophy structures the tea ceremony's obsessive care, how it quietly shapes everyday Japanese behavior (from the deep send-off bow to the way people say goodbye), its darker and more beautiful root in impermanence — and a practical way to run one hour of your life on ichigo-ichie rules.
 
 ---PAID LINE---
+
+<!-- 🖼 画像2(有料部分): 点てられた抹茶のクローズアップ(泡の立った緑)。Unsplash検索例: "matcha bowl tea ceremony" -->
 
 ## How the Idea Works in Practice
 

@@ -1,0 +1,98 @@
+<title>noteサムネテンプレ デザイン案</title>
+<style>
+  :root {
+    --shu: #C73E3A;      /* 朱色 (Scenario) */
+    --ai: #1B2A4A;       /* 藍色 (和の心 背景) */
+    --gold: #C9A961;     /* 金 (和の心 アクセント) */
+    --ink: #16161a;
+  }
+  body { font-family: -apple-system, "Helvetica Neue", "Hiragino Sans", "Noto Sans JP", sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; line-height: 1.7; }
+  h1 { font-size: 1.4rem; } h2 { font-size: 1.1rem; margin-top: 2.5rem; }
+  .note { color: #888; font-size: .85rem; }
+  table { border-collapse: collapse; font-size: .85rem; width: 100%; }
+  td, th { border: 1px solid #ccc4; padding: .4rem .6rem; text-align: left; }
+
+  /* ===== サムネ本体 (1.91:1) ===== */
+  .thumb {
+    position: relative; width: 100%; aspect-ratio: 1920 / 1006;
+    border-radius: 8px; overflow: hidden; margin: .75rem 0 0;
+    color: #fff;
+  }
+  /* 写真が入る場所(ここではグラデーションで代用) */
+  .thumb .photo { position: absolute; inset: 0; }
+  .thumb .overlay { position: absolute; inset: 0; background: linear-gradient(100deg, rgba(10,10,16,.82) 0%, rgba(10,10,16,.55) 52%, rgba(10,10,16,.15) 100%); }
+
+  .thumb .bar { position: absolute; left: 0; top: 0; bottom: 0; width: 1.3%; }
+  .thumb .series {
+    position: absolute; left: 5.5%; top: 8.5%;
+    font-size: clamp(8px, 1.55vw, 15px); font-weight: 700; letter-spacing: .22em;
+    padding: .45em .9em; border-radius: 3px;
+  }
+  .thumb .title {
+    position: absolute; left: 5.5%; bottom: 24%; width: 62%;
+    font-size: clamp(16px, 4.3vw, 42px); font-weight: 900; line-height: 1.18;
+    text-shadow: 0 2px 14px rgba(0,0,0,.45);
+  }
+  .thumb .footer {
+    position: absolute; left: 5.5%; bottom: 9%;
+    font-size: clamp(8px, 1.5vw, 14px); letter-spacing: .12em; opacity: .85; font-weight: 600;
+  }
+  .thumb .kanji {
+    position: absolute; right: 3.5%; top: 50%; transform: translateY(-50%);
+    font-size: clamp(60px, 17vw, 170px); font-weight: 900; line-height: 1;
+    writing-mode: vertical-rl; opacity: .28; letter-spacing: .08em;
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+  }
+
+  /* Scenario変種 */
+  .scenario .photo { background: linear-gradient(135deg, #3a3f52, #6b4a3f 60%, #2a2d3a); }
+  .scenario .bar { background: var(--shu); }
+  .scenario .series { background: var(--shu); color: #fff; }
+
+  /* 和の心変種 */
+  .wa .photo { background: linear-gradient(135deg, var(--ai), #2e4468 55%, #101a30); }
+  .wa .bar { background: var(--gold); }
+  .wa .series { background: transparent; border: 1.5px solid var(--gold); color: var(--gold); }
+  .wa .kanji { color: var(--gold); opacity: .38; }
+
+  @media (prefers-color-scheme: dark) { body { color: #e8e8e8; } td, th { border-color: #555; } }
+</style>
+
+<h1>noteサムネテンプレ デザイン案(1920×1006px)</h1>
+<p class="note">背景のグラデーションは写真のプレースホルダーです。実際は各記事ヘッダーの「見出し画像:」に書いた写真を敷いて、左からの黒グラデーションを重ねます。</p>
+
+<h2>① Scenario型(朱色)— 例: 7/12 財布の記事</h2>
+<div class="thumb scenario">
+  <div class="photo"></div>
+  <div class="overlay"></div>
+  <div class="bar"></div>
+  <div class="series">WHAT WOULD A JAPANESE PERSON DO?</div>
+  <div class="title">Why Lost Wallets<br>Come Back in Japan</div>
+  <div class="footer">JAPAN DAILY · DAY 1</div>
+  <div class="kanji">交番</div>
+</div>
+
+<h2>② 和の心型(藍色×金)— 例: 7/17 間の記事</h2>
+<div class="thumb wa">
+  <div class="photo"></div>
+  <div class="overlay"></div>
+  <div class="bar"></div>
+  <div class="series">WA NO KOKORO — THE JAPANESE HEART</div>
+  <div class="title">Ma: The Art<br>of the Pause</div>
+  <div class="footer">JAPAN DAILY · DAY 6</div>
+  <div class="kanji">間</div>
+</div>
+
+<h2>Canvaで再現するときの仕様(1920×1006pxで作成)</h2>
+<table>
+  <tr><th>要素</th><th>指定</th></tr>
+  <tr><td>背景写真</td><td>全面に配置し、左から黒グラデーション(不透明度 左82%→右15%)を重ねる</td></tr>
+  <tr><td>左端の縦バー</td><td>幅 25px。Scenario=朱 #C73E3A / 和の心=金 #C9A961</td></tr>
+  <tr><td>シリーズ名タグ</td><td>左上(左5.5%・上8.5%)。英大文字・字間広め・28px前後。Scenario=朱色の塗りに白文字 / 和の心=金の枠線に金文字</td></tr>
+  <tr><td>タイトル(英語)</td><td>左下寄り。極太サンセリフ(Canvaなら Archivo Black / Anton)、80px前後・最大2行・白</td></tr>
+  <tr><td>フッター</td><td>「JAPAN DAILY · DAY n」。連載感を出すための通し番号。28px・白85%</td></tr>
+  <tr><td>漢字の透かし</td><td>右側に縦書き1〜2文字(明朝体・340px前後・不透明度28〜38%)。記事の核の漢字(交番/間/一期一会 など)</td></tr>
+  <tr><td>色コード</td><td>朱 #C73E3A / 藍 #1B2A4A / 金 #C9A961</td></tr>
+</table>
+
+<p class="note">運用: Canvaでこの2種を一度作ってテンプレ保存 → 毎週日曜に「写真・タイトル・DAY番号・漢字」の4か所だけ差し替えて7枚書き出し。1枚3分・週21分。</p>

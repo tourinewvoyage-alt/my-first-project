@@ -5,12 +5,15 @@
 シリーズ: Scenario
 価格: ¥2,000
 目標文字数: 5,000〜10,000 → 本文約8,000文字(英文約1,400語)
+見出し画像: タイトル文字 "Why Lost Wallets Come Back in Japan" / 写真: 夜の交番(赤いランプが灯った外観)。シリーズテンプレ(Scenario=朱色)を使用
 note URL: (公開後に記入)
 -->
 
 *Otoshimono (落とし物) — "a dropped thing." In Japan, this simple word carries an entire philosophy of trust. This is a story about what happens when things get lost — and why they almost always come back.*
 
 ## The Scene
+
+<!-- 🖼 画像1(無料部分): 夕暮れの新橋ガード下の飲み屋街、または駅改札の人波。自分で撮るのが理想/Unsplash検索例: "shimbashi tokyo night" -->
 
 Imagine you're in Tokyo. It's your third day in Japan. You've just had the best bowl of ramen of your life in a tiny shop under the train tracks in Shimbashi, and you're floating through the evening crowd toward the station, still thinking about that broth.
 
@@ -41,6 +44,8 @@ The short answer: they go to the *kōban* — and they trust the system complete
 But the real story is *why* that trust exists, how the system actually works step by step, and what it teaches about the Japanese idea of *wa* — harmony. That's what the rest of this article is about.
 
 ---PAID LINE---
+
+<!-- 🖼 画像2(有料部分): 交番の外観(昼間)。※警察官の顔が写り込まないよう外観のみ。自分で撮ると記事の信頼感が大きく上がる -->
 
 ## What Actually Happens
 

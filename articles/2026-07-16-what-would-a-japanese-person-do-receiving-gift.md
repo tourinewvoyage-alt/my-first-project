@@ -4,12 +4,15 @@
 公開日: 2026-07-16(予約投稿)
 シリーズ: Scenario
 価格: ¥2,000
+見出し画像: タイトル文字 "The Hidden Rules of Japanese Gift-Giving" / 写真: 水引・熨斗付きの贈答品、または美しい包装の箱。シリーズテンプレ(Scenario=朱色)
 note URL: (公開後に記入)
 -->
 
 *Okaeshi (お返し) — "the return." In Japan, a gift is never just a gift; it's the opening move in a graceful, lifelong game of balance. Here are the rules nobody will ever explain to you out loud.*
 
 ## The Scene
+
+<!-- 🖼 画像1(無料部分): デパート包装のきれいな箱(お菓子を1つ買って自分で撮るのが簡単)。Unsplash検索例: "japanese gift wrapping" -->
 
 You visit your Japanese friend Yuki's family home for dinner, and you bring a small gift from your country — a box of chocolates, maybe some local coffee. Nothing serious. Yuki's mother receives it with both hands, bows, thanks you warmly… and sets it aside, unopened.
 
@@ -34,6 +37,8 @@ The logic is balance. A gift creates a small, warm debt; *okaeshi* — the retur
 Below the line: the unwritten rulebook — when gifts are opened and why, the half-value rule (*hangaeshi*), the two great gift seasons, what counts as a dangerous gift, and how to play this game as a foreigner without stepping on any of its invisible tripwires.
 
 ---PAID LINE---
+
+<!-- 🖼 画像2(有料部分・Rule 3の近く): 水引(紅白の飾り紐)のクローズアップ。※デパ地下売り場の撮影は許可が必要なので、包装紙・水引の物撮り推奨 -->
 
 ## What Actually Happens: The Unwritten Rulebook
 

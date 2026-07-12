@@ -4,12 +4,15 @@
 公開日: 2026-07-17(予約投稿)
 シリーズ: Wa no Kokoro
 価格: ¥2,000
+見出し画像: タイトル文字 "Ma: The Art of the Pause" / 写真: 龍安寺の石庭、または余白の多い和室。シリーズテンプレ(和の心=藍色×金)
 note URL: (公開後に記入)
 -->
 
 *Ma (間) — the interval, the gap, the pause. A single character that appears in the Japanese words for time, space, human being, and mistake. This is the story of why Japan builds with emptiness — in rooms, in music, and in conversation — and why the silence that makes you nervous is actually working.*
 
 ## The Scene
+
+<!-- 🖼 画像1(無料部分): 床の間(掛け軸+一輪挿し)のある静かな和室。Unsplash検索例: "japanese tatami room tokonoma" -->
 
 You're in a business meeting in Tokyo. You've just finished your proposal — you thought it went well — and you look at Tanaka-san, the senior person across the table, waiting for a response.
 
@@ -34,6 +37,8 @@ Because in the Japanese aesthetic, meaning doesn't live in the notes — it live
 Below the line: how *ma* works in architecture, art, music and comedy; the conversational rules of silence (including the famous "count to seven" advice for negotiators); how *ma* connects to reading the air (*kūki wo yomu*); and how to practice the pause in your own overloaded life.
 
 ---PAID LINE---
+
+<!-- 🖼 画像2(有料部分): 石庭(砂紋と石)。Unsplash検索例: "ryoanji rock garden" / "zen garden" ※寺院で自分で撮る場合は撮影可否を確認 -->
 
 ## Ma, Everywhere You Look
 

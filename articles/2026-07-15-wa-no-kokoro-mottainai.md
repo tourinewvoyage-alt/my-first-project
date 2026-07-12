@@ -4,12 +4,15 @@
 公開日: 2026-07-15(予約投稿)
 シリーズ: Wa no Kokoro
 価格: ¥2,000
+見出し画像: タイトル文字 "Mottainai: The Word That Makes Waste Hurt" / 写真: 金継ぎの器のクローズアップ。シリーズテンプレ(和の心=藍色×金)
 note URL: (公開後に記入)
 -->
 
 *Mottainai (もったいない) — usually translated "what a waste," but that translation is itself a waste. This is the story of a word that treats objects as if they had feelings, and what happens to a society that believes it.*
 
 ## The Scene
+
+<!-- 🖼 画像1(無料部分): 白飯の茶碗と箸のクローズアップ(米粒が数粒残った状態を自分で再現して撮ると完璧)。※学校給食の実写は権利的に避ける。Unsplash検索例: "rice bowl chopsticks" -->
 
 A Japanese elementary school lunchroom, 12:30 p.m. A six-year-old boy stares at three grains of rice left in his bowl. Not a spoonful — three grains. He picks up his chopsticks and, with the concentration of a jeweler, carries each grain to his mouth. Around him, forty other children are doing the same thing. When the bowls go back to the cart, they look washed.
 
@@ -32,6 +35,8 @@ The difference is *where the feeling points*. "Don't waste" is advice about your
 Below the line: where this feeling comes from (a 1,000-year-old idea about objects having spirit), how it shows up in Japanese daily life in ways tourists walk right past, why Japan still struggles with waste despite it — and how to install a little *mottainai* in your own head.
 
 ---PAID LINE---
+
+<!-- 🖼 画像2(有料部分・kintsugi節の近く): 金継ぎの金の線が見えるクローズアップ。Unsplash検索例: "kintsugi" -->
 
 ## Where the Feeling Comes From
 

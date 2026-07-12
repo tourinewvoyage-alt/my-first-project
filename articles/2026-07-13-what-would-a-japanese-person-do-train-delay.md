@@ -4,12 +4,15 @@
 公開日: 2026-07-13(予約投稿)
 シリーズ: Scenario
 価格: ¥2,000
+見出し画像: タイトル文字 "The Paper That Proves Your Train Was Late" / 写真: 駅ホームの電光掲示板(遅延表示が出ているもの)。シリーズテンプレ(Scenario=朱色)
 note URL: (公開後に記入)
 -->
 
 *Chien shōmeisho (遅延証明書) — "a delay certificate." Yes, Japanese railways hand out official proof that your train was late. This small piece of paper explains more about Japan than any guidebook chapter.*
 
 ## The Scene
+
+<!-- 🖼 画像1(無料部分): 朝の通勤ホームに整然と並ぶ人の列(後ろ姿)。Unsplash検索例: "tokyo commuters platform" -->
 
 It's 8:12 on a Tuesday morning at a station on the Yamanote line. The platform is full — salarymen in identical navy suits, students in uniforms, a woman balancing a coffee and a phone. And then the announcement comes, in that famously gentle station voice: due to a signal inspection, trains are delayed by approximately twenty minutes.
 
@@ -34,6 +37,8 @@ The short answer: they stay calm, they collect a *chien shōmeisho* — an offic
 But the interesting part is *why this certificate exists at all*, and what it reveals about how trust and blame work in Japanese society. That's below the line.
 
 ---PAID LINE---
+
+<!-- 🖼 画像2(有料部分): 遅延証明書の実物写真。次に遅延に遭ったら必ずもらって撮っておく(この1枚は海外読者に強烈に刺さる) -->
 
 ## What Actually Happens
 
